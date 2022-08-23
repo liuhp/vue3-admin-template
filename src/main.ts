@@ -6,6 +6,8 @@ import { store, key } from './store'
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 import 'element-plus/theme-chalk/dark/css-vars.css'
+import '@/assets/css/layout.scss'
+import '@/assets/css/custom.scss'
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 
 
